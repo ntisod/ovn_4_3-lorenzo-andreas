@@ -1,0 +1,10 @@
+C:\Users\andreas.yousef\source\repos\ovn_4_3-lorenzo-andreas2\Övning_4.3\obj\Debug\Övning_4.3.csprojAssemblyReference.cache
+C:\Users\andreas.yousef\source\repos\ovn_4_3-lorenzo-andreas2\Övning_4.3\obj\Debug\Övning_4._3.FrmKontakt.resources
+C:\Users\andreas.yousef\source\repos\ovn_4_3-lorenzo-andreas2\Övning_4.3\obj\Debug\Övning_4._3.Properties.Resources.resources
+C:\Users\andreas.yousef\source\repos\ovn_4_3-lorenzo-andreas2\Övning_4.3\obj\Debug\Övning_4.3.csproj.GenerateResource.cache
+C:\Users\andreas.yousef\source\repos\ovn_4_3-lorenzo-andreas2\Övning_4.3\obj\Debug\Övning_4.3.csproj.CoreCompileInputs.cache
+C:\Users\andreas.yousef\source\repos\ovn_4_3-lorenzo-andreas2\Övning_4.3\bin\Debug\Övning_4.3.exe.config
+C:\Users\andreas.yousef\source\repos\ovn_4_3-lorenzo-andreas2\Övning_4.3\bin\Debug\Övning_4.3.exe
+C:\Users\andreas.yousef\source\repos\ovn_4_3-lorenzo-andreas2\Övning_4.3\bin\Debug\Övning_4.3.pdb
+C:\Users\andreas.yousef\source\repos\ovn_4_3-lorenzo-andreas2\Övning_4.3\obj\Debug\Övning_4.3.exe
+C:\Users\andreas.yousef\source\repos\ovn_4_3-lorenzo-andreas2\Övning_4.3\obj\Debug\Övning_4.3.pdb
